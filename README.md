@@ -53,6 +53,7 @@ The aim of this project is to understand different types of learning algorithms 
 
 ## Algorithms Used 
 - ### Logistic Regression
+    ![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmiro.medium.com%2Fmax%2F2312%2F1*iKo3KI4kqkZ47W7pmmH4cw.png&f=1&nofb=1&ipt=b1bb2f75f4cd5dacbdccb79dcb7ec65b4226c2fc670fd04bad174bf0e291892f&ipo=images)
     #### Importing Logistic Regression Classifier
     ```bash
     from sklearn.linear_model import LogisticRegression
@@ -60,6 +61,7 @@ The aim of this project is to understand different types of learning algorithms 
     #### About
     Logistic Regression is an easily interpretable classification technique that gives the probability of an event occurring, not just the predicted classification. It also provides a measure of the significance of the effect of each individual input variable, together with a measure of certainty of the variable's effect.
 - ### Decision Tree Classifier
+    ![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FZVR2Way4nwQ%2Fmaxresdefault.jpg&f=1&nofb=1&ipt=929082246a926e05d618680c9e97211ec3812c74238d5a6c12f09c4d714046f6&ipo=images)
     #### Importing Decision Tree Classifier
     ```bash
     from sklearn.tree import DecisionTreeClassifier
@@ -67,6 +69,7 @@ The aim of this project is to understand different types of learning algorithms 
     #### About
     Decision tree is a non-parametric supervised learning algorithm, which is utilized for both classification and regression tasks. It has a hierarchical, tree structure, which consists of a root node, branches, internal nodes and leaf nodes.
 - ### Random Forest Classifier
+    ![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fcontent%2Fimages%2F2020%2F08%2Fhow-random-forest-classifier-work.PNG&f=1&nofb=1&ipt=2c6e870d452397c91b9731c44b61d8171d1532f3fed96ae39e6086a57d761d09&ipo=images)
     #### Importing Random Forest Classifier
     ```bash
     from sklearn.ensemble import RandomForestClassifier
@@ -74,6 +77,7 @@ The aim of this project is to understand different types of learning algorithms 
     #### About
     Random forests or random decision forests is an ensemble learning method for classification, regression and other tasks that operates by constructing a multitude of decision trees at training time. For classification tasks, the output of the random forest is the class selected by most trees. For regression tasks, the mean or average prediction of the individual trees is returned. Random decision forests correct for decision trees' habit of overfitting to their training set. 
 - ### Support Vector Machine 
+    ![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdataaspirant.com%2Fwp-content%2Fuploads%2F2020%2F12%2F3-Support-Vector-Machine-Algorithm.png&f=1&nofb=1&ipt=3eafb226d7951832bacdd2f2aaee49341862fdb4cc71a4053a2d8096e59e2a3e&ipo=images)
     #### Importing Support Vector Machine CLassifier
     ```bash
     from sklearn import svm
@@ -81,6 +85,7 @@ The aim of this project is to understand different types of learning algorithms 
     #### About
     Support Vector Machine or SVM is one of the most popular Supervised Learning algorithms, which is used for Classification as well as Regression problems. However, primarily, it is used for Classification problems in Machine Learning.The goal of the SVM algorithm is to create the best line or decision boundary that can segregate n-dimensional space into classes so that we can easily put the new data point in the correct category in the future. This best decision boundary is called a hyperplane.SVM chooses the extreme points/vectors that help in creating the hyperplane. These extreme cases are called as support vectors, and hence algorithm is termed as Support Vector Machine.
 - ### KNeighbours Classifier 
+    ![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.theclickreader.com%2Fwp-content%2Fuploads%2F2020%2F08%2F24-1536x864.png&f=1&nofb=1&ipt=a345408b22c331fa31ebdd83748c6d4ea4b51255b259d7593de5bb03b6fd6875&ipo=images)
     #### Importing KNeighbours Classifier
     ```bash
     from sklearn.neighbors import KNeighborsClassifier
@@ -88,6 +93,7 @@ The aim of this project is to understand different types of learning algorithms 
     #### About
     k-nearest neighbors algorithm, also known as KNN or k-NN, is a non-parametric, supervised learning classifier, which uses proximity to make classifications or predictions about the grouping of an individual data point. While it can be used for either regression or classification problems, it is typically used as a classification algorithm, working off the assumption that similar points can be found near one another
 - ### Gradient Boosting Classifier
+    ![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1600%2F0*paPv7vXuq4eBHZY7.png&f=1&nofb=1&ipt=965fdd200c3a72634251a8fed8da7e96396ef4122ff2ebe3673205814317bbf4&ipo=images)
     #### Importing Gradient Boosting Classifier
     ```bash
     from sklearn.ensemble import GradientBoostingClassifier
