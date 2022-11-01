@@ -1,5 +1,5 @@
 
-# Wine_Quality_Prediction
+# Wine_Quality_Prediction 
 The aim of this project is to understand different types of learning algorithms on a popular wine quality dataset on kaggle using machine learning.
 
 ## Libraries Used
@@ -120,4 +120,5 @@ The aim of this project is to understand different types of learning algorithms 
    - Plotting the accuracy of different models used 
    ![Model_Accuracy](https://github.com/Arnav131003/Wine_Quality_Prediction/blob/main/Model_Accuracy.png?raw=true)
 
-
+# Enjoy your wine
+![](https://cdn.dribbble.com/users/1241808/screenshots/2833908/winedrib.gif)
