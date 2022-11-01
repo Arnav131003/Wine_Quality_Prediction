@@ -4,7 +4,8 @@ The aim of this project is to understand different types of learning algorithms 
 
 ## Libraries Used
 - ### Numpy 
-    ![Numpy](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fres.cloudinary.com%2Fpracticaldev%2Fimage%2Ffetch%2Fs--IS2P_PRA--%2Fc_imagga_scale%2Cf_auto%2Cfl_progressive%2Ch_420%2Cq_auto%2Cw_1000%2Fhttps%3A%2F%2Fres.cloudinary.com%2Fpracticaldev%2Fimage%2Ffetch%2Fs--PmX0XWGn--%2Fc_imagga_scale%252Cf_auto%252Cfl_progressive%252Ch_420%252Cq_auto%252Cw_1000%2Fhttps%3A%2F%2Fthepracticaldev.s3.amazonaws.com%2Fi%2Fi7xbfqoej9ylzboevtbb.png&f=1&nofb=1&ipt=6cebde7404bdf1f7480aa8043418de8779de6898ed92b838ff31e064b4dd401e&ipo=images)
+     <a href="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fres.cloudinary.com%2Fpracticaldev%2Fimage%2Ffetch%2Fs--IS2P_PRA--%2Fc_imagga_scale%2Cf_auto%2Cfl_progressive%2Ch_420%2Cq_auto%2Cw_1000%2Fhttps%3A%2F%2Fres.cloudinary.com%2Fpracticaldev%2Fimage%2Ffetch%2Fs--PmX0XWGn--%2Fc_imagga_scale%252Cf_auto%252Cfl_progressive%252Ch_420%252Cq_auto%252Cw_1000%2Fhttps%3A%2F%2Fthepracticaldev.s3.amazonaws.com%2Fi%2Fi7xbfqoej9ylzboevtbb.png"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fres.cloudinary.com%2Fpracticaldev%2Fimage%2Ffetch%2Fs--IS2P_PRA--%2Fc_imagga_scale%2Cf_auto%2Cfl_progressive%2Ch_420%2Cq_auto%2Cw_1000%2Fhttps%3A%2F%2Fres.cloudinary.com%2Fpracticaldev%2Fimage%2Ffetch%2Fs--PmX0XWGn--%2Fc_imagga_scale%252Cf_auto%252Cfl_progressive%252Ch_420%252Cq_auto%252Cw_1000%2Fhttps%3A%2F%2Fthepracticaldev.s3.amazonaws.com%2Fi%2Fi7xbfqoej9ylzboevtbb.png" maxheight="25%" maxwidth="25%" ></a>
+
     #### Importing Numpy Library
     ```bash
      import numpy as np
@@ -15,7 +16,7 @@ The aim of this project is to understand different types of learning algorithms 
     along with a large collection of high-level mathematical functions
     to operate on these arrays.
 - ### Pandas
-   ![Pandas](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fcontent%2Fimages%2Fsize%2Fw2000%2F2020%2F07%2Fpandas-logo.png&f=1&nofb=1&ipt=1b83ff9f7748e6ff21773acb5c4d2df2a849db6634950aded6460e7cf1cf9803&ipo=images)
+   <a href="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fcontent%2Fimages%2Fsize%2Fw2000%2F2020%2F07%2Fpandas-logo.png"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fcontent%2Fimages%2Fsize%2Fw2000%2F2020%2F07%2Fpandas-logo.png" maxheight="25%" maxwidth="25%" ></a>
     #### Importing Pandas Library
     ```bash
     import pandas as pd
@@ -24,7 +25,7 @@ The aim of this project is to understand different types of learning algorithms 
     Pandas is a Python package providing fast, flexible, and expressive data structures designed to make working with “relational” or “labeled” data both easy and intuitive. It aims to be the fundamental high-level building block for doing practical, real-world data analysis in Python.
 
 - ### Seaborn
-    ![seaborn](https://seaborn.pydata.org/_static/logo-wide-lightbg.svg)
+    <a href="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" maxheight="25%" maxwidth="25%" ></a>
     #### Importing Seaborn
     ```bash
     import seaborn as sns
@@ -34,7 +35,7 @@ The aim of this project is to understand different types of learning algorithms 
 
 
 - ### Matplotlib
-    ![](https://matplotlib.org/_static/images/logo_dark.svg)
+    <a href="https://matplotlib.org/_static/images/logo_dark.svg"><img src="https://matplotlib.org/_static/images/logo_dark.svg" maxheight="25%" maxwidth="25%" ></a>
     #### Importing Matplolib
     ```bash
     import matplotlib.pyplot as plt
@@ -42,7 +43,7 @@ The aim of this project is to understand different types of learning algorithms 
     #### About Matplotlib
     Matplotlib is easy to use and an amazing visualizing library in Python. It is built on NumPy arrays and designed to work with the broader SciPy stack and consists of several plots like line, bar, scatter, histogram, etc. 
 - ### Sklearn
-    ![](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Famueller.github.io%2Fsklearn_014_015_pydata%2Fsklearn-logo.png&f=1&nofb=1&ipt=5d119b094f8b5ff887823aff320195dfdffdba1a5417691430b71675b572207e&ipo=images)
+    <a href="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Famueller.github.io%2Fsklearn_014_015_pydata%2Fsklearn-logo.png"><img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Famueller.github.io%2Fsklearn_014_015_pydata%2Fsklearn-logo.png" maxheight="25%" maxwidth="25%" ></a>
     #### Importing Sklearn
     ```bash
     import sklearn
