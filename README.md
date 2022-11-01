@@ -1,5 +1,5 @@
 
-# Wine_Quality_Prediction 
+# Wine_Quality_Prediction 🍷 
 The aim of this project is to understand different types of learning algorithms on a popular wine quality dataset on kaggle using machine learning.
 
 ## Libraries Used
